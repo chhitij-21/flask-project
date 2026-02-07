@@ -16,8 +16,4 @@
     {"type": "rectangle", "width": 4, "height": 7}
   ]
 
-  [
-    {"name": "Updated API", "version": "2.0", "message": "This JSON file was updated in new branch", "author": "chhitij-21"}          
-  
-  ]
 }
