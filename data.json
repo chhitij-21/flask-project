@@ -1,0 +1,12 @@
+{
+  "palette": {
+    "name": "🌈 Rainbow Colors",
+    "colors": 
+    [
+      {"name": "Red", "hex": "#FF0000", "rgb": [255,0,0]},
+      {"name": "Green", "hex": "#00FF00", "rgb": [0,255,0]},
+      {"name": "Blue", "hex": "#0000FF", "rgb": [0,0,255]}
+    ]
+  },
+  "preview_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg=="
+}
