@@ -9,4 +9,5 @@ Commit the changes and merge the branch into the main branch.
 Run commands:
 
 pip install -r requirements.txt
+
 python app.py
