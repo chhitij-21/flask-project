@@ -1,6 +1,6 @@
 {
   "palette": {
-    "name": "🌈 Rainbow Colors",
+    "name": " Rainbow Colors",
     "colors": 
     [
       {"name": "Red", "hex": "#FF0000", "rgb": [255,0,0]},
@@ -8,5 +8,16 @@
       {"name": "Blue", "hex": "#0000FF", "rgb": [0,0,255]}
     ]
   },
-  "preview_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg=="
+  "shapes": 
+  [
+    {"type": "circle", "radius": 5},
+    {"type": "square", "side_length": 10},
+    {"type": "triangle", "base": 8, "height": 6},
+    {"type": "rectangle", "width": 4, "height": 7}
+  ]
+
+  [
+    {"name": "Updated API", "version": "2.0", "message": "This JSON file was updated in new branch", "author": "chhitij-21"}          
+  
+  ]
 }
